@@ -9,4 +9,4 @@
 
 任务调度示意图案例文件夹：Lab2_test
 
-![img](.\Lab2_test\lab2_test.png)
+![img](./Lab2_test/lab2_test.png)
